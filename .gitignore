@@ -2,3 +2,4 @@
 .tool*
 files/*
 .ipynb_checkpoints/
+datasets/
