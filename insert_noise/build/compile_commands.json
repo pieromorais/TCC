@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/linux_main/Docs/Utils/insert_noise/build",
+  "command": "/usr/bin/c++  -I/home/linux_main/Docs/Utils/insert_noise/include -isystem /usr/local/include/opencv4  -o CMakeFiles/main.dir/src/main.cpp.o -c /home/linux_main/Docs/Utils/insert_noise/src/main.cpp",
+  "file": "/home/linux_main/Docs/Utils/insert_noise/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+}
+]

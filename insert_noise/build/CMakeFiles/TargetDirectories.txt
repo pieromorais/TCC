@@ -1,0 +1,3 @@
+/home/linux_main/Docs/Utils/insert_noise/build/CMakeFiles/main.dir
+/home/linux_main/Docs/Utils/insert_noise/build/CMakeFiles/edit_cache.dir
+/home/linux_main/Docs/Utils/insert_noise/build/CMakeFiles/rebuild_cache.dir
